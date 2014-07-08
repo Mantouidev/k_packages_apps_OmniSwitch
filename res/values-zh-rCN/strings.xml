@@ -91,4 +91,6 @@
     <string name="immersive_mode_help">切换沉浸模式</string>
     <string name="package_add_favorite_title">添加到收藏</string>
     <string name="package_remove_favorite_title">移出收藏</string>
+    <string name="flat_style_summary">使用不透明的纯色背景显示</string>
+    <string name="flat_style_title">平面风格</string>
 </resources>
